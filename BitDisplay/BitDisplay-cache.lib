@@ -62,11 +62,11 @@ X SCL 4 100 50 100 L 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
-# 0_Usefull_Stuff_I2C_GPIO_8x
+# 0-Components_I2C_GPIO_8x
 #
-DEF 0_Usefull_Stuff_I2C_GPIO_8x U 0 40 N Y 1 F N
+DEF 0-Components_I2C_GPIO_8x U 0 40 N Y 1 F N
 F0 "U" -250 350 50 H V C CNN
-F1 "0_Usefull_Stuff_I2C_GPIO_8x" 200 350 50 H V C CNN
+F1 "0-Components_I2C_GPIO_8x" 200 350 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW

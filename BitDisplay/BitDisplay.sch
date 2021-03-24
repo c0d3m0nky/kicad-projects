@@ -230,7 +230,7 @@ Wire Wire Line
 Wire Wire Line
 	5650 2650 5650 2550
 $Comp
-L 0_Usefull_Stuff:I2C_GPIO_8x A1
+L 0-Components:I2C_GPIO_8x A1
 U 1 1 605B0983
 P 5700 3000
 F 0 "A1" V 5400 2250 50  0000 C CNN
